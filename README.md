@@ -1,5 +1,6 @@
 Did analysis based on below objectives provided:
-   1.Understsnd the highest producers and consumers of certain goods.
+
+   1.Understand the highest producers and consumers of certain goods.
 
    2.Understand highly consumed element i.e food or feed.
 
